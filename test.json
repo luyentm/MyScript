@@ -1,0 +1,70 @@
+{
+  "type": "noi tu",
+  "category": "id",
+  "point": 10,
+  "question": {
+    "level": 1,
+    "data": {
+      "content": "Please see this video",
+      "type": "video",
+      "url": "https://youtube.com/asdfasdf"
+    },
+    "suggest": {
+      "content": "Please see this video",
+      "type": "video",
+      "url": "https://youtube.com/asdfasdf"
+    }
+  },
+  "answers": [
+    {
+      "id": "1",
+      "group": 0,
+      "data": {
+        "content": "Please see this video",
+        "type": "video",
+        "title": "A.",
+        "url": "https://youtube.com/asdfasdf"
+      },
+      "suggest": {
+        "content": "Please see this video",
+        "title": "Hint",
+        "type": "video",
+        "url": "https://youtube.com/asdfasdf"
+      }
+    },
+    {
+      "id": "2",
+      "group": 1,
+      "data": {
+        "content": "Please see this video",
+        "type": "video",
+        "title": "A.",
+        "url": "https://youtube.com/asdfasdf"
+      },
+      "suggest": {
+        "content": "Please see this video",
+        "title": "Hint",
+        "type": "video",
+        "url": "https://youtube.com/asdfasdf"
+      }
+    },
+    {
+      "data": {
+        "content": "Please see this video",
+        "type": "video",
+        "title": "B.",
+        "url": "https://youtube.com/asdfasdf"
+      },
+      "suggest": {
+        "content": "Please see this video",
+        "title": "Hint",
+        "type": "video",
+        "url": "https://youtube.com/asdfasdf"
+      }
+    }
+  ],
+  "correct": [
+    99,
+    98
+  ]
+}
